@@ -11,12 +11,12 @@
 - İşletim Sistemi: Ubuntu 20.04LTS
 
 - Öncelikle ağı Metamask'a aşağıdaki linke tıklayıp ss'de göründüğü gibi butona tıklayarak ekliyoruz.
-      - https://docs.shardeum.org/network/endpoints
+   - https://docs.shardeum.org/network/endpoints
 
 ![1](https://user-images.githubusercontent.com/73176377/221692468-9d6f9cc4-b2d9-46bd-a1c9-dbe4aeb64050.PNG)
 
 - ÖNEMLİ > Buradan itibaren gerçekleştirilen kurulumun sorunsuz yapılabilmesi adına videonun izlenmesi en iyi yoldur.
-      - Video >  
+   - Video > https://youtu.be/GKW0OHt9wJQ
 
 ## Yükleme Kodları
  ### Güncelleme
@@ -35,7 +35,7 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 ```
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
- - Size sorduğu sorularda vereceğiniz cevaplar sıralı şekilde şöyle
+- Size sorduğu sorularda vereceğiniz cevaplar sıralı şekilde şöyle
    - y
    - y
    - Kendi belirlediğiniz bir şifreyi girin. Mutlaka bir yerde kayıtlı olsun.
@@ -52,20 +52,20 @@ operator-cli gui start
 ```
 
 ### Stake İşlemi
-  - Öncelikle https://faucet-sphinx.shardeum.org/ linkten girip tweet atarak faucet istiyorsnuz.
-  - Bilgisayarımızın tarayıcısına https://NodeIp:8080 şeklinde yazıp enterlayınca "Bağlantınız gizli değil" uyarısı gelecektir. Bundan sonra en aşağıda ".... sitesine ilerle (güvenli değil)" yazısına tıklanır ve gelen sitede az önce kurulumda yazdığımız şifre ile giriş yapılır.
-  - Sırayla ss'de ki işlemleri yaparak stake işlemini gerçekleştirebilirsiniz.
-  - Bu bölümle alakalı videoda söylediklerim önemli. Lütfen dinleyin!
+   - Öncelikle https://faucet-sphinx.shardeum.org/ linkten girip tweet atarak faucet istiyorsnuz.
+   - Bilgisayarımızın tarayıcısına https://NodeIp:8080 şeklinde yazıp enterlayınca "Bağlantınız gizli değil" uyarısı gelecektir. Bundan sonra en aşağıda ".... sitesine ilerle (güvenli değil)" yazısına tıklanır ve gelen sitede az önce kurulumda yazdığımız şifre ile giriş yapılır.
+   - Sırayla ss'de ki işlemleri yaparak stake işlemini gerçekleştirebilirsiniz.
+   - Bu bölümle alakalı videoda söylediklerim önemli. Lütfen dinleyin!
 
 ### Version Kontrol
- - 1.1 sonucunu vermeli
+   - 1.1 sonucunu vermeli
 ```
 curl <server_ip>:9001/nodeinfo
 ```
- - Tarayıcıdan şu şekilde girerek de bakılabilir > http://nodeip:9001/nodeinfo
+   - Tarayıcıdan şu şekilde girerek de bakılabilir > http://nodeip:9001/nodeinfo
 
 ### 0.0.0.0 Hatası
-  - Sitede bazen node bu hata yüzünden durabiliyor eğer böyle bir uyarı ile karşılaşırsanız aşağıdaki kodları sırayla girin.
+   - Sitede bazen node bu hata yüzünden durabiliyor eğer böyle bir uyarı ile karşılaşırsanız aşağıdaki kodları sırayla girin.
 ```
 cd ~/.shardeum
 ./shell.sh
