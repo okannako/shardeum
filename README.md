@@ -37,6 +37,7 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 ```
  - Size sorduğu sorularda vereceğiniz cevaplar sıralı şekilde şöyle
    - y
+   - y
    - Kendi belirlediğiniz bir şifreyi girin. Mutlaka bir yerde kayıtlı olsun.
    - Kullanıcak olan portu soruyor, en uygunu 8080 girmektir
    - Bir şey yazmadan "enter" a bas
