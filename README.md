@@ -44,6 +44,8 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
    - Bir şey yazmadan "enter" a bas
    - Bir şey yazmadan "enter" a bas
    - Görselde ki gibi bir ekran geldiğinde sorunsuz kurulum yapılmış demektir.
+![11111111](https://user-images.githubusercontent.com/73176377/221731272-2576ce8f-9217-407d-99e0-f1bb7f74fb07.PNG)
+
 ```
 $HOME/.shardeum/shell.sh
 operator-cli gui start
