@@ -84,6 +84,7 @@ curl https://ipinfo.io/ip
 - Öncelikle site üzerinden Node stoplayın ve Unstake/Remove Stake yapın daha sonra ```cd && cd ~/.shardeum && ./shell.sh``` kodunu ve sonrasında aşağıdaki kodları sırayla girerek güncellemeyi yapın. EĞER Unstake/Remove Stake YAPAMIYORSANIZ, HATA VERİYORSA yeni bir cüzdan oluşturun ve videodaki işlemleri sıfırdan yapın. Bu öneri takım tarafından yapıldı. Kullanamadığınız cüzdan bilgisini saklamayı unutmayın!
 
 ```
+exit
 cd
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
