@@ -81,7 +81,7 @@ curl https://ipinfo.io/ip
 
 ## 07.03.2023 - 1.1.2 Güncellemesi
 
-- Öncelikle ```cd && cd ~/.shardeum && docker stop shardeum-dashboard``` koduyla node durdurun daha sonra ip ile bağlandığımız site üzerinden Unstake/Remove Stake yapın ve aşağıdaki kodları sırayla girerek güncellemeyi yapın. Daha sonra Node kurulumu (34. Satır) adımına geri dönün ve işlemleri gerçekleştirin. EĞER Unstake/Remove Stake YAPAMIYORSANIZ, HATA VERİYORSA yeni bir cüzdan oluşturun ve videodaki işlemleri sıfırdan yapın. Bu öneri takım tarafından yapıldı. Kullanamadığınız cüzdan bilgisini saklamayı unutmayın!
+- Öncelikle ```cd && cd ~/.shardeum && docker stop shardeum-dashboard``` koduyla node durdurun daha sonra ip ile bağlandığımız site üzerinden Unstake/Remove Stake yapın ve aşağıdaki kodları sırayla girerek güncellemeyi yapın. EĞER Unstake/Remove Stake YAPAMIYORSANIZ, HATA VERİYORSA yeni bir cüzdan oluşturun ve videodaki işlemleri sıfırdan yapın. Bu öneri takım tarafından yapıldı. Kullanamadığınız cüzdan bilgisini saklamayı unutmayın!
 
 ```
 cd
