@@ -87,4 +87,4 @@ curl https://ipinfo.io/ip
 cd
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
-- Bu işlemden sonra 38. satırdan itibaren işlemleri gerçeklştiriyoruz.
+- Bu işlemden sonra [38.](https://github.com/okannako/shardeum/blob/main/README.md#node-kurulumu) satırdan itibaren işlemleri gerçekleştiriyoruz.
