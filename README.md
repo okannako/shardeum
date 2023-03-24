@@ -79,9 +79,9 @@ operator-cli start
 curl https://ipinfo.io/ip
 ```
 
-## 07.03.2023 - 1.1.2 Güncellemesi
+## 24.03.2023 - 1.1.5 Güncellemesi
 
-- Öncelikle site üzerinden Node stoplayın ve Unstake/Remove Stake yapın daha sonra ```cd && cd ~/.shardeum && ./shell.sh``` kodunu ve sonrasında aşağıdaki kodları sırayla girerek güncellemeyi yapın. EĞER Unstake/Remove Stake YAPAMIYORSANIZ, HATA VERİYORSA yeni bir cüzdan oluşturun ve videodaki işlemleri sıfırdan yapın. Bu öneri takım tarafından yapıldı. Kullanamadığınız cüzdan bilgisini saklamayı unutmayın!
+- Aşağıdaki adımları sırayla yapıp güncelleme işlemini başarılı bir şekilde gerçekleştirebilirsiniz.
 
 ```
 exit #eğer root da değilseniz ve container içindeyseniz bunu girin yoksa atlayabilirsiniz
