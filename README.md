@@ -79,7 +79,7 @@ operator-cli start
 curl https://ipinfo.io/ip
 ```
 
-## 24.03.2023 - 1.1.6 Güncellemesi
+## 30.03.2023 - 1.1.6 Güncellemesi
 
 - Aşağıdaki adımları sırayla yapıp güncelleme işlemini başarılı bir şekilde gerçekleştirebilirsiniz. Öncesinde siteye gidip node durdurup unstake etmelisiniz, daha sonra Ayarlar > Gelişmiş > Hesabı sıfırla'ya giderek Metamask'larınızı sıfırlamalısınız. 
 
