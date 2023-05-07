@@ -43,6 +43,9 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
    - Bir şey yazmadan "enter" a bas
    - Bir şey yazmadan "enter" a bas
    - Bir şey yazmadan "enter" a bas
+   - Bir şey yazmadan "enter" a bas
+   - Bir şey yazmadan "enter" a bas
+   - Bir şey yazmadan "enter" a bas
    - Görselde ki gibi bir ekran geldiğinde sorunsuz kurulum yapılmış demektir.
 ![11111111](https://user-images.githubusercontent.com/73176377/221731272-2576ce8f-9217-407d-99e0-f1bb7f74fb07.PNG)
 
@@ -79,7 +82,7 @@ operator-cli start
 curl https://ipinfo.io/ip
 ```
 
-## 13.04.2023 - 1.1.7 Güncellemesi
+## 04.05.2023 Güncellemesi
 
 - Aşağıdaki adımları sırayla yapıp güncelleme işlemini başarılı bir şekilde gerçekleştirebilirsiniz. Öncesinde siteye gidip node durdurup unstake etmelisiniz, daha sonra Ayarlar > Gelişmiş > Hesabı sıfırla'ya giderek Metamask'larınızı sıfırlamalısınız. 
 
